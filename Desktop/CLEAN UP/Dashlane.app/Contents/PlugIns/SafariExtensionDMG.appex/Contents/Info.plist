@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>19A582a</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Dashlane</string>
+	<key>CFBundleExecutable</key>
+	<string>SafariExtensionDMG</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.dashlane.Dashlane.SafariExtensionDMG</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>SafariExtensionDMG</string>
+	<key>CFBundlePackageType</key>
+	<string>XPC!</string>
+	<key>CFBundleShortVersionString</key>
+	<string>6.2027.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>6.2027.0.36391</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>11A420a</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>19A547</string>
+	<key>DTSDKName</key>
+	<string>macosx10.15</string>
+	<key>DTXcode</key>
+	<string>1100</string>
+	<key>DTXcodeBuild</key>
+	<string>11A420a</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.12</string>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.Safari.extension</string>
+		<key>NSExtensionPrincipalClass</key>
+		<string>SafariExtensionDMG.SafariExtensionHandler</string>
+		<key>SFSafariContentScript</key>
+		<array>
+			<dict>
+				<key>Excluded URL Patterns</key>
+				<array>
+					<string>https://webui.dashlane.com/*</string>
+				</array>
+				<key>Script</key>
+				<string>kwift.SAFARI_APP_EXTENSION.min.js</string>
+			</dict>
+			<dict>
+				<key>Allowed URL Patterns</key>
+				<array>
+					<string>https://webui.dashlane.com/*</string>
+				</array>
+				<key>Script</key>
+				<string>static/js/main.js</string>
+			</dict>
+		</array>
+		<key>SFSafariExtensionBundleIdentifiersToUninstall</key>
+		<array>
+			<string>com.dashlane.dashlanesafari</string>
+		</array>
+		<key>SFSafariStyleSheet</key>
+		<array>
+			<dict>
+				<key>Style Sheet</key>
+				<string>webui-frame.css</string>
+			</dict>
+			<dict>
+				<key>Allowed URL Patterns</key>
+				<array>
+					<string>https://webui.dashlane.com/*</string>
+				</array>
+				<key>Style Sheet</key>
+				<string>static/css/main.css</string>
+			</dict>
+		</array>
+		<key>SFSafariToolbarItem</key>
+		<dict>
+			<key>Action</key>
+			<string>Popover</string>
+			<key>Identifier</key>
+			<string>Button</string>
+			<key>Image</key>
+			<string>safari-extension-active.pdf</string>
+			<key>Label</key>
+			<string>Dashlane</string>
+		</dict>
+		<key>SFSafariWebsiteAccess</key>
+		<dict>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>NSHumanReadableDescription</key>
+	<string>Password Manager and Secure Digital Wallet</string>
+	<key>com.dashlane.HockeyAppIdentifier</key>
+	<string>bf7e2d33180843c180ef14fbf16ac5a8</string>
+	<key>com.dashlane.machServiceName</key>
+	<string>com.dashlane.DashlaneAgent</string>
+</dict>
+</plist>

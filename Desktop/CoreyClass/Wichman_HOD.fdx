@@ -1,0 +1,1666 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="4">
+
+  <Content>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="5/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DWAYNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MELISSA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. CemetEry - LATE AFTERNOON </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>DWAYNE TANNER (24) dressed in a soiled Domino’s Pizza uniform, leans over a grave.  </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fuck you, fuck you, fuck youuuuu, Mama. You said I was gonna get the house.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>From the passenger side of a truck parked nearby, MELISSA, 20, leans out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Come on, Dwayne. You’re gonna be late for work.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne drops the flowers he brought on the grave. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You promised me. Now I learn Eddie got the house? I have to live in the fucking camper behind the house I grew up in? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne picks up the flowers again and beats them across the headstone and throws what’s left down again and walks back to the truck.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 3/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DWAYNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MELISSA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. TRUCK  - DRIVING DOWN ROAD - conTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Melissa turns the rear view mirror to her as she puts on makeup.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why are you putting makeup on? I’m dropping you off at home before I go to work.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why can’t you be more like Eddie? He’s got ambition.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s a drug dealer, Melissa. And he tricked mama into changing her will. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s a good brother to you, Dwayne. He said we could move back in until we find a place to live.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’ve got a place. The camper. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That camper is a piece of shit and I need a real bathroom.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m hiring a lawyer to get the house back. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>With your pizza tip money? I’ve already moved my stuff back in so you can stay in the backyard by yourself if you want.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re my fucking girlfriend. You have to stay by my side!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Like I said, Eddie has ambition.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne speeds up the truck dangerously and runs a stop sign barely missing another car.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You want ambition? Here’s some ambition for you!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dwayne! Slow down! You’ll kill us.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You and me, baby! Together forever!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne jerks the wheel and the truck slides sideway in the gravel as Melissa screams. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The truck lands head first in a ditch in front of the Tanner house.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="6/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DWAYNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="EDDIE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MELISSA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. TANNER HOUSE - EVENING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Music blares from the open front door where EDDIE TANNER (28) stands holding a beer.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Melissa jumps out of the truck and slams the door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MELISSA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fuck you, Dwayne. It’s over between us.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You whore! Wait! Melissa! Come back, please. I didn’t mean that.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Melissa pushes past Eddie and disappears into the house. Dwayne glares at Eddie. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EDDIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Charming.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne ignores him and heads into the dark backyard.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>EXT: BACKYARD - EVENING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A lone lightbulb hangs over a 1990’s camper that has seen better days. Dwayne sits down in a lawn chair and notices the dog food bowls are untouched, the dog bed is empty.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Butch? Where are you? Goddamn it. Where’d you go, little fella? BUTCHY!!! </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DWAYNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. NEIGHBORHOOD STREET - EVENING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne staples a LOST DOG FLYER on the telephone pole and gets back into his truck. The front of the truck is banged up from landing in the ditch. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne’s cheeks are wet. He wipes his face and roars the truck back to life. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I never wanted a fucking dog anyway.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 2/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BUBBA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DWAYNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. DOMINOS PIZZA - EVENING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne’s truck pulls in aggressively. Dwayne grabs pizza insulation bags out of the truck bed and heads inside.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>INT. DOMINOS PIZZA </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">- conTINOUS</Text>
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne throws the insulation bags on the counter.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>BUBBA,(45) slapping dough between his fat fingers in a strange soothing rhythm.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BUBBA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Where’s the money, Dwayne?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are you talking about?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BUBBA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Your receipts from last night?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>In the drawer like I always drop them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BUBBA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nope. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then someone ripped you off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BUBBA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Only your receipts were missing, Dwayne.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are you saying?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BUBBA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re fired.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Bubba? I need this job. Why would I steal from you? I like this job. I like you!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BUBBA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I won’t call the police if you give the money back.
+</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Call the police. I don’t have anything to hide.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BUBBA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just get out, Dwayne.  </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You know what, Bubba? I quit. I don’t need you or this crappy job. I’m joining the Army anyway. Nothing left in this shit-hole town for me.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="5" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>EXT. ShinY BOOT HOTEL - EVENING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Cheap hotel downtown. The lobby is dark and abandoned. The hallways smell like mold. Muffled laughing can be heard from behind a door.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 4/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BETTY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DWAYNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LARRY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. ROOM 11 - evENING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne walks out of the bathroom wrapped in a towel, his hair wet from a shower.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>BETTY(18)sits on one bed pulling up her panty hose. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>LARRY (22) pulls the blanket up to his neck on the other bed laughing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Girl, you need some clean underwear. Your Lululemon have seen better days.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We could go get something to eat if you guys are hungry.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BETTY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nah, I’m good. You got any cigarettes?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne walks over to the bed and pulls a pack out of the drawer.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Come on, Betty. I paid for the whole night.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BETTY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Honey, I think you got your money’s worth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll stay with you, Dwayne.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ask Pooky to give you the night off. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BETTY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Pooky is a business man, Dwayne. If you were a business man, I might fuck you for free. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I think she likes you, Dwayne.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BETTY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shut up, Larry, and walk me home.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Larry gets up and pulls on a crumpled close fitting dress of his own. Betty and Larry both kiss Dwayne goodnight. Larry stubs out his cigarette in the tray.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>See you tomorrow?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If you show up. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Larry and Betty leave. Dwayne closes the door. He lays down on the bed staring at the ceiling. He smells something.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beside him, the ask tray stinks. He dumps it in the trash by the door and turns off all the lights. The lights from the street give an eerie glow to the room.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fuck it. I don’t need anyone. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>EXT. SHINY BOOT HOTEL - LATER THAT EVENING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In the street below, firetrucks cut off traffic. Lights swirl and flash lighting up the face of the hotel.  Firemen look up. Smoke billows out of a room above their heads. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="WOMAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. HoTEL HALLWAY- NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A woman bangs on doors and runs down the hall.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>WOMAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fire! Get out! Fire!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DWAYNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. ROOm 11 - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The smoke is dense and we barely see Dwayne moving in the bed. His eyes pop open and he starts coughing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What the hell? Oh, Jesus!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Coughing, Dwayne drapes the wet towel on the bed over his face and staggers to the door. It won’t open. He bangs on the door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Help! I’m in here! Help!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CAPTAIN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. ShinY BOOT HOTEL - cONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Captain radios to the team.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CAPTAIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Everybody out?</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="FIREMEAN 1">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="FIREMEAN 2">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. HOTEL HALLWAY- NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FIREMAN 1 in full gear clears the hall. FIREMAN 2 waves to him thumbs up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FIREMEAN 1</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(on radio)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Rooms 1 through 15 clear!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FIREMEAN 2</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(on radio)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Room 15 through 30 clear! Hotel Clear! All units extracting.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DWAYNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. HOTEL ROOM - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne desperately jerks at the door and bangs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fuck fuck fuck fuck </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Smokes fills the room. Dwayne chokes and drops to the floor. The room fades to black.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CAPTAIN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DWAYNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. SHINY BOOT HOTEL - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CAPTAIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ok, clear out everybody. Let’s get the trucks back to the station.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Above them, Dwayne is clawing at the window.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. HOTEL ROOM - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne crawls across the floor and pushes the window open and steps out on the ledge.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DWAYNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. SHINY BOOT HOTEL - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey! Don’t leave me!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne has inched further out on the ledge but has no where to go. Below him is a canopy over the walkway to the front door of the hotel. He closes his eyes and jumps.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DWAYNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. BUS STATION - MORNING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne stands in ill-fitting borrowed jeans and t-shirt. Alone. He is covered in bruises and bandages. His eyebrows looked singed off. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A voice announces the bus is leaving. Dwayne looks around one last time and picks up the large duffel bag by his feet and climbs on the bus.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fuck you Larry. You said you’d come say good bye.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 4/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DWAYNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SARGEANT BRILLO">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. Sangin District area of Helmand Province - DAWN</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne moves quickly across the street and presses up against a wall. Bullets whiz over his head. </Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fuck fuck fuck fuck. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne calls on his radio.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sargeant! Where are you guys? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Above Dwayne, on the roof across the street, several Army soldiers crouch and peek over the edge..</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Sargeant brillo</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can you shut up for a second, Tanner? You’re broadcasting your position.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sir, yes sir. Sorry for the urgency but kinda taking direct hits, sir.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Bullet pop at Dwayne’s boots. He jumps out and runs across the street zig zagging. Gun fire follows him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SARGEANT BRILLO</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(over the radio)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Keep your dick in your pants, Tanner.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Kinda have my dick in my hand here, sir. Still taking fire. FUCKKKKKK.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Explosion and rapid fire machine gun as Dwayne jumps head first into a nearby alley and lands next to slumped body. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Come on, buddy, we have to get out of here. I’m gonna help you. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne picks up the wounded soldier and scrambles to a back door. He squats down and calls on his radio.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE </Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sarge, coming out. Cover me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The street explodes in front of the building where the soldiers were last seen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SARGEANT BRILLO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Private, stay where you are! You are in direct line. We cannot reach you. Stay in position. Stay in position. We will extract if possible.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If possible! What the fuck?! I’m getting out here.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne drops low and drags the soldier between his legs as he looks backward as enemy fire targets him running along the perimeter.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SARGEANT BRILLO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m sorry, son, we’re pulling back. We’ll come back for you as soon as we can. Hold your position.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DWAYNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Wait! Don’t leave! Don’t leave me. Fuck you guys! </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dwayne lifts the soldier and drags him around the corner. He stops in the middle of the street, throws a handful of grenades behind him, throws the soldier over his shoulder and runs as fast as he can as the grenades explode one after another behind him.</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text></Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Last Revised"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges>
+      <Range End="1693" Start="1691"/>
+      <Range End="8186" Start="8180"/>
+    </IgnoredRanges>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="817" Left="232" Mode="Normal" Top="58" Width="870"/>
+
+  <TextState Scaling="100" Selection="388,388" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut=":"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Script Title</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Written by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Name of First Writer</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Based on, If Any</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Address</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phone Number</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <UnanchoredScriptNotes/>
+
+  <SmartType>
+    <Characters>
+      <Character>DWAYNE</Character>
+      <Character>MELISSA</Character>
+      <Character>EDDIE</Character>
+      <Character>BUBBA</Character>
+      <Character>BETTY</Character>
+      <Character>LARRY</Character>
+      <Character>WOMAN</Character>
+      <Character>CAPTAIN</Character>
+      <Character>FIREMEAN 1</Character>
+      <Character>FIREMEAN 2</Character>
+      <Character>Sargeant brillo</Character>
+      <Character>DWAYNE Sarge, coming out. Cover me.</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+      <SceneIntro> INT</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>CEMETERY</Location>
+      <Location>TRUCK</Location>
+      <Location>EXT: TANNER BACKYARD</Location>
+      <Location>DOMINOS PIZZA</Location>
+      <Location>NEIGHBORHOOD STREET</Location>
+      <Location>SHINY BOOT HOTEL</Location>
+      <Location>HOTEL ROOM</Location>
+      <Location>BUS STAION</Location>
+      <Location>ROOM 11</Location>
+      <Location>HOTEL HALLWAY- NIGHT</Location>
+      <Location>SANGIN DISTRICT AREA OF HELMAND PROVINCE</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>DAWN</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+      <TimeOfDay>LATE AFTERNOON </TimeOfDay>
+      <TimeOfDay>LATER THAT EVENING</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowAllMarks="No" ShowAllSets="No" ShowPageColor="No">
+    <Revision Color="#000000000000" FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" SplitMode="None" SplitterPosition="0">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="Man 1" Character="DWAYNE"/>
+    <Member Actor="Man 1" Character="MELISSA"/>
+    <Member Actor="" Character="EDDIE"/>
+    <Member Actor="" Character="BUBBA"/>
+    <Member Actor="" Character="BETTY"/>
+    <Member Actor="" Character="LARRY"/>
+    <Member Actor="" Character="WOMAN"/>
+    <Member Actor="" Character="CAPTAIN"/>
+    <Member Actor="" Character="FIREMEAN 1"/>
+    <Member Actor="" Character="FIREMEAN 2"/>
+    <Member Actor="" Character="Sargeant brillo"/>
+    <Member Actor="" Character="DWAYNE Sarge, coming out. Cover me."/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#FFFFFFFFFFFF" Name="BETTY" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="BUBBA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="CAPTAIN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="DWAYNE" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="EDDIE" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="FIREMEAN 1" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="FIREMEAN 2" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="LARRY" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="MELISSA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="SARGEANT BRILLO" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="WOMAN" Visible="No"/>
+  </CharacterHighlighting>
+
+  <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn="Order">
+    <Column Width="52">Order</Column>
+    <Column Width="51">Page</Column>
+    <Column Width="49">Intro</Column>
+    <Column Width="173">Location</Column>
+    <Column Width="98">Time</Column>
+    <Column Width="54">Color</Column>
+    <Column Width="70">Scene #</Column>
+  </CharacterNavigatorPreferences>
+
+  <TagsNavigatorPreferences IsSortAscending="Yes" SortColumn="Order">
+    <Column Width="50">Page</Column>
+    <Column Width="64">Scene #</Column>
+    <Column Width="50">Intro</Column>
+    <Column Width="260">Location</Column>
+    <Column Width="90">Time</Column>
+    <Column Width="60">Length</Column>
+    <Column UserType="CategoryColumnType" Width="360">Synopsis</Column>
+    <Column UserType="CategoryColumnType" Width="360">Cast Members</Column>
+    <Column Width="360">Tags</Column>
+    <Column Width="52">Order</Column>
+  </TagsNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>10</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="73" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
+  </DisplayBoards>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <TableColumnSettings IsSortAscending="Yes" SortColumn="" TableIdentifier="NavDynCharacters">
+      <Column Width="150">Character</Column>
+      <Column UserType="TraitColumnType" Width="50">Role</Column>
+      <Column UserType="TraitColumnType" Width="63">Gender</Column>
+      <Column UserType="TraitColumnType" Width="70">Ethnicity</Column>
+      <Column UserType="TraitColumnType" Width="83">Orientation</Column>
+      <Column UserType="TraitColumnType" Width="73">Disability</Column>
+      <Column UserType="TraitColumnType" Width="50">Age</Column>
+      <Column UserType="TraitColumnType" Width="85">Occupation</Column>
+    </TableColumnSettings>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="ebe44c35-fd80-4bc4-8117-2b806e604a94" Name="Age" Type="text"/>
+        <Trait ID="3c1c04e2-48dc-4b04-8643-89d1cd9ca137" Name="Disability" Type="text"/>
+        <Trait ID="f4076594-524d-4733-ac6b-e4dde6690d68" Name="Ethnicity" Type="text"/>
+        <Trait ID="db64dbfc-6458-4884-a413-86503cdf4965" Name="Gender" Type="text"/>
+        <Trait ID="07f4dbfe-2591-4b03-818f-67f98b5294b1" Name="Occupation" Type="text"/>
+        <Trait ID="43d5358c-f271-4cf6-80b8-832450963c11" Name="Orientation" Type="text"/>
+        <Trait ID="8fac4d6f-1056-47d5-b312-882aba8fa7a6" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets>
+        <FilterSet Default="Yes">
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
+          </Filter>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
+          </Filter>
+          <Filter Index="0" Name="Trait" Value="Role">
+            <Match></Match>
+          </Filter>
+        </FilterSet>
+        <FilterSet>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
+          </Filter>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
+          </Filter>
+          <Filter Index="0" Name="Trait" Value="">
+            <Match></Match>
+          </Filter>
+        </FilterSet>
+      </FilterSets>
+    </ChartOptions>
+  </Characters>
+
+  <Images Hidden="0"/>
+
+</FinalDraft>

@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    width: 970px;
+    background-color: rgb(110, 160, 236);
+    display: inline-block;
+    font-family: Montserrat;
+ 
+}
+
+img {
+    height: 25%;
+}
+
+h1{
+    color: white;
+}
+
+.li{
+    color: white;
+ 
+
+}

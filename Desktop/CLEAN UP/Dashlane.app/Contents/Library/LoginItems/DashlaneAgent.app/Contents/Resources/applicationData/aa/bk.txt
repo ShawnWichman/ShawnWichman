@@ -1,0 +1,47 @@
+{
+  "id": "442718d9-475e-452a-b3e1-fb1ee16b8e9d@dashlane.com",
+  "syncGUID": "HuyuxK73s5Z3",
+  "location": "app-profile",
+  "version": null,
+  "type": "extension",
+  "internalName": null,
+  "updateURL": null,
+  "updateKey": null,
+  "optionsURL": null,
+  "optionsType": null,
+  "aboutURL": null,
+  "iconURL": "chrome://kwift/skin/dashlane48.png",
+  "icon64URL": "chrome://kwift/skin/dashlane64.png",
+  "defaultLocale": {
+    "name": "Dashlane",
+    "description": "Password Manager and Secure Digital Wallet",
+    "creator": "Dashlane Team",
+    "homepageURL": "https://www.dashlane.com"
+  },
+  "visible": true,
+  "active": true,
+  "userDisabled": false,
+  "appDisabled": false,
+  "descriptor": "pathToExtension",
+  "installDate": 1387806475121,
+  "updateDate": 1387806475121,
+  "applyBackgroundUpdates": 1,
+  "bootstrap": false,
+  "size": 42,
+  "sourceURI": null,
+  "releaseNotesURI": null,
+  "softDisabled": false,
+  "foreignInstall": true,
+  "hasBinaryComponents": false,
+  "strictCompatibility": false,
+  "locales": [],
+  "targetApplications": [
+    {
+      "id": "{ec8030f7-c20a-464f-9b0e-13a3a9e97384}",
+      "minVersion": "4.0",
+      "maxVersion": "28.*"
+    }
+  ],
+  "targetPlatforms": [],
+  "multiprocessCompatible": false
+}

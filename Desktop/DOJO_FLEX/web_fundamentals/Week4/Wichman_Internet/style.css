@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper{
+    width: 1200px;
+}
+
+#globe  {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0px;
+
+}
+
+#internet_header {
+    display: inline-block;
+    font-size: 36pt;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+
+#www {
+    background-color: rgb(38, 156, 224);
+    font-size: 24pt;
+    padding: 15px;
+
+}
+
+#sidebar{
+    width: 15%;
+}
+
+#ad {
+    background: url("images/ad_background.png");
+    width: 140px;
+    height: 400px;
+    padding: 20px;
+    
+}
+
+#sidebar hr {
+    border: 1px solid gray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#side_a{
+    width: 100%;
+}
+
+#side_b{
+    width: 100%;
+}
+
+#ad_image{
+    width: 33%;
+    margin-left: 33%;
+}
+
+#ad_text{
+    color: white;
+}
+
+#ad_input{
+    width: 50%;
+}
+
+.span_blue{
+    color: rgb(38, 156, 224);
+}

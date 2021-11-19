@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<!--
+@license
+Copyright (C) 2010 The Libphonenumber Authors
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS-IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<!--
+  Author: Nikolaos Trogkanis
+-->
+<head>
+<title>Dashlane Phone Number Parser</title>
+<script src="closure/goog/base.js"></script>
+<script type="text/javascript">
+  goog.require('goog.proto2.ObjectSerializer');
+</script>
+<script src="phonemetadata.pb.js"></script>
+<script src="phonenumber.pb.js"></script>
+<script src="metadata.js"></script>
+<script src="phonenumberutil.js"></script>
+</head>
+<body>
+
+<script type="text/javascript">
+	
+	function phoneNumberParser( phoneNumber, regionCode/*, carrierCode*/ )
+	{
+		var phoneUtil	= i18n.phonenumbers.PhoneNumberUtil.getInstance();
+		var number		= phoneUtil.parseAndKeepRawInput( phoneNumber, regionCode );
+		
+		var output		= {};
+		
+		// ****Validation Results:****
+		
+		// Result from isValidNumber():
+		output.isValidNumber			= phoneUtil.isValidNumber( number );
+		// Result from isValidNumberForRegion():
+		output.isValidNumberForRegion	= phoneUtil.isValidNumberForRegion( number, regionCode );
+		// Result from isPossibleNumber():
+		output.isPossibleNumber			= phoneUtil.isPossibleNumber( number );
+
+		// Result from getNumberType():
+		var PNT = i18n.phonenumbers.PhoneNumberType;
+		switch( phoneUtil.getNumberType( number ) )
+		{
+			case PNT.FIXED_LINE:
+				output.phoneNumberType	= 'FIXED_LINE';
+				break;
+			case PNT.MOBILE:
+				output.phoneNumberType	= 'MOBILE';
+				break;
+			case PNT.FIXED_LINE_OR_MOBILE:
+				output.phoneNumberType	= 'FIXED_LINE_OR_MOBILE';
+				break;
+			case PNT.TOLL_FREE:
+				output.phoneNumberType	= 'TOLL_FREE';
+				break;
+			case PNT.PREMIUM_RATE:
+				output.phoneNumberType	= 'PREMIUM_RATE';
+				break;
+			case PNT.SHARED_COST:
+				output.phoneNumberType	= 'SHARED_COST';
+				break;
+			case PNT.VOIP:
+				output.phoneNumberType	= 'VOIP';
+				break;
+			case PNT.PERSONAL_NUMBER:
+				output.phoneNumberType	= 'PERSONAL_NUMBER';
+				break;
+			case PNT.UNKNOWN:
+				output.phoneNumberType	= 'UNKNOWN';
+				break;
+		}
+		
+		var PNF = i18n.phonenumbers.PhoneNumberFormat;
+		
+		// ****Formatting Results:****
+
+		// Original format:
+		output.originalFormat		= phoneUtil.formatInOriginalFormat( number, regionCode );
+		// E164 format:
+		output.E164Format			= phoneUtil.format( number, PNF.E164 );
+		// International format:
+		output.internationalFormat	= phoneUtil.format( number, PNF.INTERNATIONAL );
+		// National format:
+		output.nationalFormat		= phoneUtil.format( number, PNF.NATIONAL );
+		// Out-of-country format from US:
+		//output.outOfUSFormat		= phoneUtil.formatOutOfCountryCallingNumber(number, 'US');
+		
+		/*
+		if (carrierCode.length > 0)
+		{
+			// National format with carrier code:
+			output	+= phoneUtil.formatNationalNumberWithCarrierCode( number, carrierCode );
+		}
+        */
+        
+        return output;
+	}
+	
+</script>
+
+</body>
+</html>

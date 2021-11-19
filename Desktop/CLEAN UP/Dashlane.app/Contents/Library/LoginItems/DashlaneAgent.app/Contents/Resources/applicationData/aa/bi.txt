@@ -1,0 +1,177 @@
+{
+	"IDENTITY": [
+		[
+			{"Property": "FirstName", "Canonized": false},
+			{"Property": "LastName", "Canonized": false}
+		]
+	],
+	"EMAIL": [
+		[
+			{"Property": "Email", "Canonized": true}
+		]
+	],
+	"PHONE": [
+		[
+			{"Property": "Number", "Canonized": true}
+		]
+	],
+	"ADDRESS": [
+		[
+			{"Property": "AddressFull", "Canonized": false},
+			{"Property": "ZipCode", "Canonized": true},
+			{"Property": "City", "Canonized": false}
+		]
+	],
+	"COMPANY": [
+		[
+			{"Property": "Name", "Canonized": false}
+		],
+		[
+			{"Property": "JobTitle", "Canonized": false}
+		]
+	],
+	"PERSONALWEBSITE": [
+		[
+			{"Property": "Website", "Canonized": false}
+		]
+	],
+	"AUTHENTIFIANT": [
+		[
+			{"Property": "Domain", "Canonized": false, "Parent": true},
+			{"Property": "Password", "Canonized": false}
+		],
+		[
+			{"Property": "Title", "Canonized": false}
+		],
+		[
+			{"Property": "Email", "Canonized": false}
+		],
+		[
+			{"Property": "Login", "Canonized": false}
+		],
+		[
+			{"Property": "Note", "Canonized": false}
+		],
+		[
+			{"Property": "TrustedUrl", "Canonized": false},
+			{"Property": "UseFixedUrl", "Canonized": false},
+			{"Property": "SubdomainOnly", "Canonized": false}
+		],
+		[
+			{"Property": "Domain", "Canonized": false, "Parent": true}
+		]
+	],
+	"IDCARD": [
+		[
+			{"Property": "Number", "Canonized": true}
+		]
+	],
+	"PASSPORT": [
+		[
+			{"Property": "Number", "Canonized": true}
+		]
+	],
+	"DRIVERLICENCE": [
+		[
+			{"Property": "Number", "Canonized": true}
+		]
+	],
+	"SOCIALSECURITYSTATEMENT": [
+		[
+			{"Property": "SocialSecurityNumber", "Canonized": true}
+		]
+	],
+	"FISCALSTATEMENT": [
+		[
+			{"Property": "FiscalNumber", "Canonized": true}
+		],
+		[
+			{"Property": "TeledeclarantNumber", "Canonized": true}
+		]
+	],
+	"PAYMENTMEANS_CREDITCARD": [
+		[
+			{"Property": "CardNumber", "Canonized": true}
+		],
+		[
+			{"Property": "ExpireMonth", "Canonized": true},
+			{"Property": "ExpireYear", "Canonized": true}
+		],
+		[
+			{"Property": "Bank", "Canonized": true}
+		],
+		[
+			{"Property": "OwnerName", "Canonized": true}
+		],
+		[
+			{"Property": "CardNumberLastDigits", "Canonized": true}
+		]
+	],
+	"PAYMENTMEAN_PAYPAL": [
+		[
+			{"Property": "Login", "Canonized": false},
+			{"Property": "Password", "Canonized": false}
+		]
+	],
+	"BANKSTATEMENT": [
+		[
+			{"Property": "BankAccountBIC", "Canonized": true}
+		],
+		[
+			{"Property": "BankAccountIBAN", "Canonized": true}
+		]
+	],
+	"PURCHASEBASKET": [
+		[
+			{"Property": "Id", "Canonized": false}
+		]
+	],
+	"SECURENOTE": [
+		[
+			{"Property": "Title", "Canonized": false},
+			{"Property": "Content", "Canonized": false},
+			{"Property": "Attachments", "Canonized": false}
+		]
+	],
+	"GENERATED_PASSWORD": [
+		[
+			{"Property": "Domain", "Canonized": false},
+			{"Property": "GeneratedDate", "Canonized": false},
+			{"Property": "Password", "Canonized": false}
+		]
+	],
+	"AUTH_CATEGORY": [
+		[
+			{"Property": "CategoryName", "Canonized": false}
+		]
+	],
+	"PURCHASE_CATEGORY": [
+		[
+			{"Property": "CategoryName", "Canonized": false}
+		]
+	],
+	"SECURENOTE_CATEGORY": [
+		[
+			{"Property": "CategoryName", "Canonized": false}
+		]
+	],
+	"PURCHASEPAIDBASKET": [
+		[
+			{"Property": "TotalAmount", "Canonized": true},
+			{"Property": "PurchaseDate", "Canonized": true},
+			{"Property": "PaymentMeanName", "Canonized": false},
+			{"Property": "PaymentMeanDescription", "Canonized": false},
+			{"Property": "MerchantDomain", "Canonized": true},
+			{"Property": "DeliveryAddressName", "Canonized": false},
+			{"Property": "DeliveryAddressDescription", "Canonized": false},
+			{"Property": "AutoTitle", "Canonized": false},
+			{"Property": "UserTitle", "Canonized": false},
+			{"Property": "Comment", "Canonized": false}
+		]
+	],
+	"DATA_CHANGE_HISTORY": [
+		[
+			{"Property": "ObjectId", "Canonized": true}
+		]
+	]
+}

@@ -1,0 +1,947 @@
+/Applications/Python\ 3.9/Install\ Certificates.command ; exit;
+/Applications/Python\ 3.9/Update\ Shell\ Profile.command ; exit;
+~$ brew -v
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+~$ brew -v
+~$ brew update		    # update homebrew\
+~$ brew install python3	    # install Python 3
+brew help
+brew install 
+brew install FORMULA
+brew install file-formula
+~$ brew update		    # update homebrew\
+~$ brew install python3	    # install Python 3
+~$ brew update		    # update homebrew\
+~$ brew install python3	    # install Python 3
+~$ python3 -V         # type this command
+p[ython
+$ brew install wget
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\
+
+~$ brew update		    # update homebrew\
+~$ brew install python3	    # install Python 3
+brew update
+~$ brew install python3	    # install Python 3
+~$ brew install python3	    # install Python 
+~$ python3 -V         # type this command
+~$ python3 -V         # type this comman
+~$ python3 -V
+~$ brew -v
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+`brew help` 
+~$ brew update		    # update homebrew\
+~$ brew install python3	    # install Python 3
+~$ brew update		    # update homebrew\
+~$ brew install python3	    # install Python 3
+~$ brew -v
+homebrew
+~$ python3 -V   
+/Applications/Python\ 3.9/Install\ Certificates.command ; exit;
+'/Library/Frameworks/Python.framework/Versions/3.9/bin/python3.9 -m pip install --upgrade pip'
+~$ brew -v
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+~$ brew update		Âƒ€Âƒ€Âƒ€Âƒ€# update homebrew\
+~$ brew install python3	Âƒ€Âƒ€Âƒ€Âƒ€# install Python 3\
+
+~$ python3 -V 
+~$ brew update		Âƒ€Âƒ€Âƒ€Âƒ€# update homebrew\
+~$ brew install python3	Âƒ€Âƒ€Âƒ€Âƒ€# install Python 3\
+
+python
+~$ brew update		    # update homebrew\
+~$ brew install python3	    # install Python 3
+~$ brew -v
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew help
+brew update
+brew install python3
+pwd
+cd
+pwd
+tree /path/to/folder
+brew install tree
+help
+tree help
+tree --help
+ create folder
+mkdir 
+cd
+~$ pwd
+~$ ls
+ls
+mkdir python_stack
+cd python_stack
+my_environments
+_python
+ls
+cd python_stack
+ls
+my_environments
+tree
+mkdir
+pwd
+mkdir
+my_environments
+ls
+cd code
+cd my_environments
+ls
+pwd
+ls
+python_stack
+ls python_stack
+mkd my_environments
+mkdir my_environments
+ls
+my_enveironments
+ls my_environments
+cd my_environments
+mkdir_python
+mkdir _python
+ls
+cd ~/desktop
+ls
+rm -i my_environments
+rm my_environments
+cd/
+cd python_stack
+ls
+pwd
+ls
+ls python_stack
+/users/shawnwichman
+pwd
+ python3 -m venv py3Env   
+cd
+cd my_environments
+ python3 -m venv py3Env   
+cd my_environments
+-m venv py3Env 
+python3 -m venv py3Env
+m venv py3Env  
+-m venv ps3Env
+virtualenv venv
+cd my_environments
+cd my_environments
+cd my_environments
+python3 -m venv py3Env   
+-m venv py3Env
+-m venv py3En
+venv py3Env  
+venv
+brew install pipx\
+pipx ensurepath
+pipx install virtualenv\
+virtualenv --help
+pipx ensurepath
+source py3Env/bin/activate 
+cd my_environments
+source py3Env/bin/activate 
+piplist
+pip list
+source py3Env/bin/activate 
+cd my_environments
+my_environmenst
+cd
+my_environmenst
+pip3 list
+'/Library/Frameworks/Python.framework/Versions/3.9/bin/python3.9 -m pip install --upgrade pip'
+-m pip install --upgrade pip
+pip install --upgrade pip
+-m
+'/Library/Frameworks/Python.framework/Versions/3.9/bin/python3.9 -m pip install --upgrade pip'
+__upgrade pipo
+--upgrade pip
+pip install --upgrade pip
+# upgrade pip\
+$ sudo pip install --upgrade pip
+upgrade pip
+$ sudo pip instal --upgrade pip
+sudo pip install --upgrade pip
+pip3 list --outdated\
+pip3 install -U pip\
+pip3 list
+pip3 list
+cd Desktop/DOJO_FLEX/python_stack/my_environments
+ls
+python
+cd Desktop/DOJO_FLEX/python_stack/my_environments
+ls
+cd Desktop/DOJO_FLEX/python_stack/my_environments
+ls
+source py3Env/bin/activate
+pip list
+# shows package content of folder
+deactivate
+ # closed out of folder py3Env
+pip3 list
+cd Desktop/DOJO_FLEX/python_Stack/my_environments
+source py3Env/bin/activate
+pip3 list
+pip list
+pip install Djang==1.11.9
+deactivate
+pip install Django==1.11.9
+source my_environments-py3Env/bin/activate
+source py3Env/bin/activate
+pip install Django
+pip freeze
+cd ~/Desktop
+pip freeze>requirements.txt
+ls
+pip uninstall Django
+pip show Django
+pip search Flask
+install Django
+Django
+ls
+python3
+python
+python3
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/pyvsc-run-isolated.py pip install -U pylint --user
+python3 hello_world.py
+cd Desktop/DOJO_FLEX/python_fundamentalsstack/_python/python_fundamentals
+cd Desktop/DOJO_FLEX/python_stack/_python/python_fundamentals
+touch hello_world.py
+source hello_world.py/bin/activate
+source python3 hello_world.py
+python3
+source hello_world/bin/activate
+python3 -m venv hello_world
+source hello_world/bin/activate
+python3 hello_world.py
+x="hello Python"
+python3 hello_world
+python3 hello_world
+cd Desktop/DOJO_FLEX/python_stack/_pythonpython_fundamentals/hello_world
+cd Desktop/DOJO_FLEX/python_stack/_python/python_fundamentals/hello_world
+python3 hello_world.py
+cd.
+cd ..
+python3 hello_world.py
+cd ..
+cd Descktop/DOJO_FLEX/python_stack/-python-my_envirnomenst
+cd Desktop/DOJO_FLEX/python_stack/-python/my_environments
+cd Desktop/DOJO_FLEX/python_stack/_python/my_environments
+source hello_world/bin/sctivate
+source hello_world/bin/activate
+cd Desktop/DOJO_FLEX/python_stack?_python/python_fundamentals
+cd Desktop/DOJO_FLEX/python_stack/_python/python_fundamentals
+source hello_world/bin/activate
+python3
+cd Desktop/FLEX_DOJO/python_stack/_python/python_fundamentals
+cd Desktop
+python3 -m venv Plural
+source Plural/bin/activate
+python3
+python3 --version
+/usr/local/bin/python3 /Users/shawnwichman/Desktop/Plural_Python/hello.py
+/usr/local/bin/python3 /Users/shawnwichman/Desktop/Plural_Python/hello.py
+python3 --version
+python3
+cd Desktop/DOJO_FLEX/python_stack/my_environments
+-m venv HelloWorld
+source cd python_stack
+source py3Env/bin/activate
+-m venv HelloWorld
+venv Hello
+pip list
+ /usr/bin/env /usr/local/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.576481509/pythonFiles/lib/python/debugpy/launcher 51797 -- /Users/shawnwichman/Desktop/Plural_Python/hello.py 
+ cd /Users/shawnwichman/Desktop/Plural_Python ; /usr/bin/env /usr/local/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.576481509/pythonFiles/lib/python/debugpy/launcher 51969 -- /Users/shawnwichman/Desktop/Plural_Python/hello.py 
+ cd /Users/shawnwichman/Desktop/Plural_Python ; /usr/bin/env /usr/local/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.576481509/pythonFiles/lib/python/debugpy/launcher 51981 -- /Users/shawnwichman/Desktop/Plural_Python/hello.py 
+ cd /Users/shawnwichman/Desktop/Plural_Python ; /usr/bin/env /usr/local/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.576481509/pythonFiles/lib/python/debugpy/launcher 51997 -- /Users/shawnwichman/Desktop/Plural_Python/hello.py 
+ cd /Users/shawnwichman/Desktop/Plural_Python ; /usr/bin/env /usr/local/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.576481509/pythonFiles/lib/python/debugpy/launcher 52031 -- /Users/shawnwichman/Desktop/Plural_Python/hello.py 
+ /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 52267 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 52286 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 52315 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 52329 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 52342 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 52375 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 52406 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 52590 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 52611 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 52626 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 52657 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 52680 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 52944 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 52986 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53011 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53024 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53029 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53047 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53062 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53075 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53093 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53141 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53163 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53180 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53209 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53220 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53234 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53259 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53269 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53280 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53290 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53349 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53366 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53377 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53403 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53421 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53433 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53450 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53459 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53474 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53520 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53548 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53574 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 53692 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 54806 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 54821 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 54906 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 54917 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 55044 -- /Users/shawnwichman/Desktop/hello_world.py 
+ cd /Users/shawnwichman/Desktop ; /usr/bin/env /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 55054 -- /Users/shawnwichman/Desktop/hello_world.py 
+python3
+/usr/local/bin/python3 /Users/shawnwichman/Desktop/Plural_Python/tax.py
+/usr/local/bin/python3 /Users/shawnwichman/Desktop/Plural_Python/tax.py
+/usr/local/bin/python3 /Users/shawnwichman/Desktop/Plural_Python/decade.py
+python3
+python3
+python_stack
+tree
+cd
+cd my_environments
+cd python_stack
+cd my_environments
+python3 -m venv py3Env
+python3 -m venv py3Env  
+source py3Env/bin/activate
+pip list
+upgrade pip
+-m pip install --upgrade pip
+cd pytghon_stack
+cd python_stack
+cd my_environments
+source py3Env/bin/activate
+-m pip install --upgrade pip
+pip list
+pip install -- upgrade pip
+pip list
+deactivate
+source py3Env/bin/activate
+pip3 list
+deactivate
+pip3 list
+-m pip install --upgrade pip
+source py3Env/bin/python3 -m pip install --upgrade pip
+source py3Env/bin/activate
+pip install ==Django1.11.9
+pip freeze
+cd ~/Desktop
+pip freeze>requirements.txt
+ls
+pip unistall Django
+uninstall Django
+pip show Django
+pip install Django==1.11.9
+python3
+cd python_fundamentals
+cd python_stack
+cd pysthon_fundamentals
+python_fundamentals
+cd _python
+cd python_fundamentals
+touch hello_world.py
+s
+cd python_stack
+python3
+source hello_world.py/bin/activate
+py3Env/bin/activate
+source py3Env/bin/activate
+source hello_world/bin/activate
+source pythgon_fundamentals/bin/activate
+source python_fundamentals/bin/activate
+source py3Env/bin/activate
+cd python_stack
+cd python_stack
+python3
+cd python_stack
+cd my_environbments
+cd my_environments
+source py3Env/bin/activate
+cd python_fundamentals
+python3
+python3 hello_world.py
+cd python_fundamentasl
+cd python_stack
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/hello_world.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Untitled-1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Untitled-1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Untitled-1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Untitled-1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Untitled-1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Untitled-1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Untitled-1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Untitled-1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Untitled-1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Untitled-1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Untitled-1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_PythonLoops_predict.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_PythonLoops_predict.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_PythonLoops_predict.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_PythonLoops_predict.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_PythonLoops_predict.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_PythonLoops_predict.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_PythonLoops_predict.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_PythonLoops_predict.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_PythonLoops_predict.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_PythonLoops_predict.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_PythonLoops_predict.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+for num in range(101,5):\
+    if num % 5 == 0:\
+        print("Coding")\
+    elif num % 10 == 0:\
+        print ("Coding Dojo")\
+    else:\
+        print(num)
+for num in range(1,101):\
+    if num % 5 == 0:\
+        print("Coding")\
+    elif num % 10 == 0:\
+        print ("Coding Dojo")\
+    else:\
+        print(num)
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_for_loop_basic1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 "/Users/shawnwichman/sum1 = add(4,6).py"
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 "/Users/shawnwichman/sum1 = add(4,6).py"
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 "/Users/shawnwichman/sum1 = add(4,6).py"
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 "/Users/shawnwichman/sum1 = add(4,6).py"
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/new.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+python3
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+python3
+python3 Wichman_ForLoops_1.py
+cd /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+cd /Users/shawnwichman/python_stack/_python/python_fundamentals/
+python3 Wichman_ForLoops_1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+python3 Wichman_ForLoops_1.py
+python3 Wichman_ForLoops_1.py
+python3 Wichman_ForLoops_1.py
+python3 Wichman_ForLoops_1.py
+python3 Wichman_ForLoops_1.py
+python3 Wichman_ForLoops_1.py
+python3 Wichman_ForLoops_1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+python3
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+cd python_stack
+cd python_fundamentals
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+cd python_fundamentals
+py3
+python
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+python3
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+cd python_fundamentals
+py3
+python3 -m venv Wichman_User
+cd desktop/shawnwichman/python_stack/my_environments
+cd shawnwichman
+cd shawnwichman pip
+python_fundamentals
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+cd python_fundamenatls
+cd shawnwichman
+cd ls
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_FunctionsBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_User.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoops_1.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/shawnwichman/python_stack/_python/python_fundamentals/Wichman_ForLoopBasic2.py
+cd python_fundamentals
+mysql -u root -p
+pip install flask
+cd ls
+ls
+cd python_stack
+pip install flask
+pip
+pip list
+cd my_environments
+pip ls
+flask
+pip install
+cd ls
+ls
+python_stack ls
+cd python_stack
+cd my_environments
+python3 -m venv Dis5
+source Dis5/bin/activate
+pip3 install Flask
+python
+python3
+pip install Flask
+python3
+pip install -U Flask
+python get-pip.py
+python -m pip install -U pip
+python3
+python3
+python3
+pip install Flask
+brew -v
+pip install Flask
+in styall Flask
+Flask
+python3 -m pip install packagname
+python3 -m pip install
+python3 -m pip install Flask
+pip show Flask
+show Flask
+/Users/shawnwichman/Downloads/mysql-8.0.22-macos10.15-x86_64/mysql-8.0.22-macos10.15-x86_64/bin/mysql_config ; exit;
+/Users/shawnwichman/Downloads/mysql-8.0.22-macos10.15-x86_64/mysql-8.0.22-macos10.15-x86_64/bin/mysql_upgrade ; exit;
+mysql -u root -p
+cd shawnwichman
+cd python_stack
+cd my_environmenst
+cd my_environments
+python3 -m venv djangoENV
+source djangoENV/bin/activate
+pip install django==2.2
+pip ls
+pip list
+django-admin startproject
+django-admin django_first_project startproject
+django-admin startproject first_django_project
+cd ls
+cd django_first_project
+cd first_django_project
+code .
+code.
+ls
+code .
+code.
+code.
+code .
+code
+launch VS code
+code .
+code DOT
+cd shawnwichman
+cd python_stack
+cd my_environments
+cd first_python_project
+cd python_fundamentals
+cd django
+cd python_stack
+cd python_stack
+cd python_stack
+cd django
+cd django_fundamentals
+ls
+source djangoENV/bin/activate
+cd python_styack
+cd python_stack
+cd my_environments
+source djangoENV/bin/activate
+cd django
+cd python_stack
+pip install django==2.2
+ls
+pip list
+cd python_stack/django/dango_fundamentals
+cd python_stack
+cd npython?stack/django_fundamenatls django admin startproject first_project
+cd first_django_project
+localhost:8000
+first_django_project project manage.py runserver
+cd python_stack
+cd python_stack/django/django_fundamentals
+source djangoENV/bin/activate
+python3 -m venv djangoENV
+source djangoENV/bin/activate
+cd python_stack/django/django_fundamentals django-admin startproject django1
+django-admin startproject django1
+cd python_stack/django/django_fundamentals
+django-admin startproject first_django_project
+cd first_django_project
+code.
+first_django_project/manage.py
+code.
+code .
+python manage.py runserver
+pip install django==2.2
+python manage.py runserver
+python manage.py startapp first_django_project
+python manage.py startapp django_shawn1
+first_django_project/first_django_project/settings.py
+INSTALLED APPS=['django_shawn1','django.contrib.admin','django.contrib.auth',django.contrib.contenttypes',django.contrib.sessions',django.contrib.messages',django.contrib.staticfiles',]
+code .
+cd python_stack/django/djano_fundamentals
+cd python_stack
+cd python
+cd django
+cd django_fundamentasl
+cd django_fundamentals
+source djangoENV/bin/activate

@@ -1,0 +1,39 @@
+{
+	"name": "electron",
+	"displayName": "Electron Color Theme",
+	"description": "Dark Color Theme based on Electron Highlighter for Atom",
+	"version": "0.2.5",
+	"publisher": "kuscamara",
+	"engines": {
+		"vscode": "^1.10.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"atom",
+		"dark",
+		"one dark"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kcmr/electron-theme-vscode"
+	},
+	"icon": "images/icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Electron",
+				"uiTheme": "vs-dark",
+				"path": "./themes/electron-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "975d187d-7d95-4292-92ef-ad9e8f083ca3",
+		"publisherId": "934ff47e-6de5-427a-b4b6-1a45aad633f7",
+		"publisherDisplayName": "Kus Cámara",
+		"installedTimestamp": 1619723870186
+	}
+}

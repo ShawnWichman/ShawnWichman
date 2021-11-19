@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+#wrapper{
+    background-color: rgb(3, 77, 126);
+    width: 1000px;
+    
+}
+#header{
+    width: 970px;
+    display: flex;
+    justify-content: space-between;
+
+}
+#form_head {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(78, 76, 76);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 10px 15px;
+    box-shadow: 10px black;
+}
+
+#img_header{
+    height: 100px;
+}
+
+#but_head { 
+    padding: 8px;
+    background-color: rgb(3, 77, 126);
+    color: white;
+    border-radius: 5px;
+}
+
+#navbar {
+    background:hsla(205, 74%, 44%, 0.953);
+    width: 800px;
+    padding: 10px; 
+    margin-left: 55px;
+    display: flex;
+    justify-content:space-between;
+    box-shadow: 10px black;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+
+   
+}
+
+.h3_nav {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+   
+}
+
+a {
+    color: white;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+#main {
+    background-color: rgb(3, 77, 126);
+    color: white;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.main {
+    background-color: rgb(3, 77, 126);
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.main {
+    width: 500px;
+    vertical-align: top;
+}
+
+.poem {
+    color: yellow;
+    font-size: 12pt;
+    line-height: 200%;
+    padding: 20px;
+    width: 500px;
+    margin-right: 50px;
+    vertical-align: top;
+    background-color: rgb(3, 77, 126);
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+#start{
+    background-color: white;
+    height: 250px;
+    width: 1000px;
+}
+    
+
+.column {
+    float: left;
+    width: 40%;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #footer{
+    background-color: rgb(3, 77, 126);
+    color: rgb(129, 158, 238);
+    display: inline-block;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}  
+  
+
+

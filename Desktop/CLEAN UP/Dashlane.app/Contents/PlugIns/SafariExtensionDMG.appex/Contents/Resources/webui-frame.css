@@ -1,0 +1,38 @@
+iframe.kw-iframe {
+  z-index: 2147483647 !important;
+  border: 0;
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  clip-path: none !important;
+  clip: auto !important;
+  mask: none !important;
+  -webkit-mask: none !important;
+  filter: none !important;
+  pointer-events: auto !important;
+  resize: none !important;
+  transform: none !important;
+  rotate: none !important;
+  scale: none !important;
+  translate: none !important;
+}
+
+iframe#kw-iframe-dropdown {
+  position: absolute !important;
+  min-width: 224px !important;
+  max-width: 700px !important;
+  min-height: 130px !important;
+  max-height: 700px !important;
+}
+
+iframe#kw-iframe-popup {
+  position: fixed !important;
+  top: 41px !important;
+  right: 41px !important;
+  min-width: 224px !important;
+  max-width: 424px !important;
+  min-height: 100px !important;
+  max-height: 700px !important;
+}

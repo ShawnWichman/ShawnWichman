@@ -1,0 +1,132 @@
+.licenses
+{
+	font-size: 12px;
+	color: #444;
+}
+
+.licenses ul,
+.licenses ol
+{
+	margin: 8px 30px;
+}
+
+.licenses p
+{
+	margin: 8px 0px;
+}
+
+.licenses h1
+{
+	text-shadow: 0px 1px 1px white;
+}
+
+.licenses h2
+{
+	font-size : 25px;
+	color : #666;
+	margin-bottom : 10px;
+	margin-top: 15px;
+	font-weight: bold;
+	text-shadow: 0px 1px 1px white;
+}
+
+.licenses hr
+{
+	background: #CCCCCC;
+	height: 1px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	border: 0px none black;
+	margin: 40px 0px;
+}
+
+
+::selection {
+color : #fff;
+background-color : #196a80;
+}
+
+::-moz-selection {
+color : #fff;
+background-color : #196a80;
+}
+
+a {
+text-decoration : none;
+color : #196a80;
+}
+
+a:hover {
+color : #0c5466;
+}
+
+a img {
+border : none;
+text-decoration : none;
+}
+
+form fieldset {
+border : none; /* default */
+}
+
+textarea {
+resize: none;
+}
+
+* {
+outline : none;
+margin : 0;
+padding : 0;
+}
+
+/*** HOME PANE ***/
+#homepane .boxpane {
+min-height : 600px;
+margin-bottom : 150px;
+}
+
+#homepane * .boxpane {
+min-height : 0px;
+margin-bottom : 0;
+}
+
+
+/** Pane **/
+div.boxpane {
+width : 900px;
+margin : 0 auto;
+}
+
+body {
+	font : 13px 'Trebuchet MS', Arial, Verdana, Geneva, sans-serif;
+	color : #000;
+	background-color : #fff;
+	zoom : 1;
+	margin : 0 auto;
+}
+
+#header {
+height : 130px;
+margin-bottom : 20px;
+}
+
+#header-logo {
+float : left;
+margin-top : 23px;
+height : 74px;
+width : 244px;
+background : url('dashlane_logo.png') no-repeat left center;
+}
+
+#header-logo a {
+display : block;
+height : 100%;
+width : 100%;
+}
+
+/*** PANES ***/
+/* FIRST PANE */
+#homepane {
+min-width : 900px;
+padding-bottom : 50px;
+}
